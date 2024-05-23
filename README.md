@@ -17,3 +17,12 @@ Aquilo que me motivou foi a simples vontade de colocar no "papel" ideias de empr
 
 - Demonstração de algumas telas do App:
 
+<image src = "./tela_cadastro.png" height="500">
+
+<image src = "./tela_login.png" height="500">
+
+<image src = "./tela_catalogo.png" height="500">
+
+<image src = "./tela_perfume.png" height="500">
+
+<image src = "./tela_detalhe.png" height="500">
