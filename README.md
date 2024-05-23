@@ -1,7 +1,6 @@
 # Projeto_ReactNative
 ## Loja de Cosméticos
 
-- Ideia geral e funcionalidades do App:
 - Ideia geral, funcionalidades e demonstração de algumas telas do App:
 
 O propósito deste projeto é desenvolver um aplicativo móvel utilizando a linguagem de programação React Native e o framework Expo SK 51. O escopo escolhido consiste na implementação de um sistema para uma **Loja de Produtos Cosméticos**, que inclui funcionalidades como cadastro de usuário e autenticação, apresentação do catálogo de produtos com categorias distintas e visualização detalhada de produtos individuais.
